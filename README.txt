@@ -1,5 +1,4 @@
-# wassup-lucas
-Don't forget to hydrate and go to the bathroom! :D
+**Don't forget to hydrate and go to the bathroom! :D**
                  _
      .----------/ |
     /           | |
